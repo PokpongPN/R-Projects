@@ -6,4 +6,4 @@ Some projects are based on or inspired by analysis and code from online learning
 
 To properly view HTML files, please first download the files to your local device. Once downloaded, you can open the HTML files using a web browser such as Microsoft Edge or Google Chrome. The browser will interpret the HTML code and display the content in a readable format.
 
-Other R projects: https://exciting-magic-dd0.notion.site/R-Projects-946bdc5df3b141acbbec2d8793729598?pvs=4
+Web Scraping project, Data Manipulation project and Chatbot Application: https://exciting-magic-dd0.notion.site/R-Projects-946bdc5df3b141acbbec2d8793729598?pvs=4
